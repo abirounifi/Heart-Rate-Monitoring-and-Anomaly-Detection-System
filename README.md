@@ -1,4 +1,4 @@
-# Heart Rate Monitoring and Anomaly Detection System
+# Heart Rate Monitoring and Anomaly Detection System _ HeartNova
 
 ## Overview
 

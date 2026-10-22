@@ -39,6 +39,14 @@ The MAX30102 sensor collects optical signals used to estimate heart rate and blo
 
 The objective is to develop an accessible embedded prototype for vital-sign monitoring and basic anomaly alerts, illustrating the application of electronics and microcontroller programming in biomedical engineering.
 
+Results 
+
+The developed prototype integrates the main components of HeartNova, including the Arduino UNO, MAX30102 sensor, LCD display, Bluetooth module, LED, and buzzer. It demonstrates real-time monitoring of heart rate and SpO₂, wireless data transmission, and visual and audible alerts when abnormal values are detected.
+
+![HeartNova Physical Prototype](prototype.jng)
+
+Figure: Physical prototype of the HeartNova heart rate monitoring and anomaly detection system.
+
 ## Important Note
 
 This prototype is intended for educational and experimental purposes. It is not a certified medical device and must not be used as a substitute for professional medical assessment.

@@ -43,6 +43,4 @@ The objective is to develop an accessible embedded prototype for vital-sign moni
 
 This prototype is intended for educational and experimental purposes. It is not a certified medical device and must not be used as a substitute for professional medical assessment.
 
-## Author
 
-Abir Ounifi — Biomedical Engineering Student

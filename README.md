@@ -43,4 +43,20 @@ The objective is to develop an accessible embedded prototype for vital-sign moni
 
 This prototype is intended for educational and experimental purposes. It is not a certified medical device and must not be used as a substitute for professional medical assessment.
 
+Contributors
+
+This project was developed collaboratively as part of a second-semester engineering project in Biomedical Engineering at INTeK, University of Jendouba, during the 2024–2025 academic year.
+
+Team members:
+
+Sirine Melki
+
+Abir Ounifi
+
+Farah Maghraoui
+
+Emna Louati
+
+Supervisor: Dr. Hiba Helali
+
 

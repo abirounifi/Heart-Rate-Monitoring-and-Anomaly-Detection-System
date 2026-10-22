@@ -43,7 +43,7 @@ Results
 
 The developed prototype integrates the main components of HeartNova, including the Arduino UNO, MAX30102 sensor, LCD display, Bluetooth module, LED, and buzzer. It demonstrates real-time monitoring of heart rate and SpO₂, wireless data transmission, and visual and audible alerts when abnormal values are detected.
 
-![HeartNova Physical Prototype](prototype.jng)
+![HeartNova Physical Prototype](prototype.png)
 
 Figure: Physical prototype of the HeartNova heart rate monitoring and anomaly detection system.
 
